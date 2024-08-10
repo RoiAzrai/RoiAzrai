@@ -10,13 +10,13 @@ I am a Python Developer with strong skills in data engineering, including SQL, b
 
 ## 🚀 Projects
 
-### [**Backend Development with Flask Dockerized OpenAI API**](https://github.com/RoiAzrai/project-1)  
+### [**Backend Development with Flask Dockerized OpenAI API**](https://github.com/RoiAzrai/INSAIT_Backend_Project)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) Developed a Dockerized Flask server with PostgreSQL, integrating OpenAI API for querying and storing responses.
 
-### [**Data Warehousing & BI Development**](https://github.com/RoiAzrai/project-2)  
+### [**Data Warehousing & BI Development**](https://github.com/RoiAzrai/BI-Develop--and-Analytics-Project)  
 ![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white) Built and optimized ETL processes and designed Data Warehouses using Star and Snowflake schemas. Visualized data using Tableau and Power BI.
 
-### [**Machine Learning Models**](https://github.com/RoiAzrai/project-3)  
+### [**Machine Learning Models**](https://github.com/RoiAzrai/Machine-Learning-Project)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) Implemented various Machine Learning models (DT, ANN, Clustering) using Python and deployed them on Big Data platforms.
 
 ### [**AI Course Project**](https://github.com/RoiAzrai/AI-Course-Project)  
@@ -24,6 +24,9 @@ I am a Python Developer with strong skills in data engineering, including SQL, b
 
 ### [**Regression Analysis in R**](https://github.com/RoiAzrai/Regression-Project-R-Programing)  
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) Conducted comprehensive regression analysis using R, focusing on statistical methods and data visualization techniques.
+
+### [**Data Science with Streamlit**](https://github.com/RoiAzrai/Streamlit-Data-Science-Project)  
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) Developed a data science project using Streamlit for building interactive web applications, with a focus on data visualization and analysis.
 
 ## 🔧 Technologies & Tools
 
