@@ -10,11 +10,11 @@ I am a Python Developer with strong skills in data engineering, including SQL, b
 
 ## 🚀 Projects
 
-### [**Flask Dockerized API**](https://github.com/RoiAzrai/project-1)  
+### [**Backend Development with Flask Dockerized OpenAI API**](https://github.com/RoiAzrai/project-1)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) Developed a Dockerized Flask server with PostgreSQL, integrating OpenAI API for querying and storing responses.
 
-### [**Data Warehousing & BI**](https://github.com/RoiAzrai/project-2)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) Built and optimized ETL processes and designed Data Warehouses using Star and Snowflake schemas. Visualized data using Tableau and Power BI.
+### [**Data Warehousing & BI Development**](https://github.com/RoiAzrai/project-2)  
+![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white) Built and optimized ETL processes and designed Data Warehouses using Star and Snowflake schemas. Visualized data using Tableau and Power BI.
 
 ### [**Machine Learning Models**](https://github.com/RoiAzrai/project-3)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) Implemented various Machine Learning models (DT, ANN, Clustering) using Python and deployed them on Big Data platforms.
@@ -28,7 +28,7 @@ I am a Python Developer with strong skills in data engineering, including SQL, b
 ## 🔧 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat-square&logo=sql)
+![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
