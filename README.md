@@ -10,20 +10,20 @@ I am a Python Developer with strong skills in data engineering, including SQL, b
 
 ## 🚀 Projects
 
-**[Flask Dockerized API](https://github.com/RoiAzrai/project-1)**  
-Developed a Dockerized Flask server with PostgreSQL, integrating OpenAI API for querying and storing responses.
+### [**Flask Dockerized API**](https://github.com/RoiAzrai/project-1)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) Developed a Dockerized Flask server with PostgreSQL, integrating OpenAI API for querying and storing responses.
 
-**[Data Warehousing & BI](https://github.com/RoiAzrai/project-2)**  
-Built and optimized ETL processes and designed Data Warehouses using Star and Snowflake schemas. Visualized data using Tableau and Power BI.
+### [**Data Warehousing & BI**](https://github.com/RoiAzrai/project-2)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) Built and optimized ETL processes and designed Data Warehouses using Star and Snowflake schemas. Visualized data using Tableau and Power BI.
 
-**[Machine Learning Models](https://github.com/RoiAzrai/project-3)**  
-Implemented various Machine Learning models (DT, ANN, Clustering) using Python and deployed them on Big Data platforms.
+### [**Machine Learning Models**](https://github.com/RoiAzrai/project-3)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) Implemented various Machine Learning models (DT, ANN, Clustering) using Python and deployed them on Big Data platforms.
 
-**[AI Course Project](https://github.com/RoiAzrai/AI-Course-Project)**  
-Developed advanced AI models as part of a course, applying various machine learning techniques to complex datasets.
+### [**AI Course Project**](https://github.com/RoiAzrai/AI-Course-Project)  
+![AI](https://img.shields.io/badge/-AI-0A0A0A?style=flat-square&logo=artificial-intelligence&logoColor=white) Developed advanced AI models as part of a course, applying various machine learning techniques to complex datasets.
 
-**[Regression Analysis in R](https://github.com/RoiAzrai/Regression-Project-R-Programing)**  
-Conducted comprehensive regression analysis using R, focusing on statistical methods and data visualization techniques.
+### [**Regression Analysis in R**](https://github.com/RoiAzrai/Regression-Project-R-Programing)  
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) Conducted comprehensive regression analysis using R, focusing on statistical methods and data visualization techniques.
 
 ## 🔧 Technologies & Tools
 
