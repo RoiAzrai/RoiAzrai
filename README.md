@@ -10,14 +10,20 @@ I am a Python Developer with strong skills in data engineering, including SQL, b
 
 ## 🚀 Projects
 
-### [Project 1: Flask Dockerized API](https://github.com/RoiAzrai/project-1)
-Developed a Flask server with PostgreSQL, Dockerized, and integrated with OpenAI API for querying and storing responses.
+**Flask Dockerized API**  
+Developed a Dockerized Flask server with PostgreSQL, integrating OpenAI API for querying and storing responses.
 
-### [Project 2: Data Warehousing & BI](https://github.com/RoiAzrai/project-2)
+**Data Warehousing & BI**  
 Built and optimized ETL processes and designed Data Warehouses using Star and Snowflake schemas. Visualized data using Tableau and Power BI.
 
-### [Project 3: Machine Learning Models](https://github.com/RoiAzrai/project-3)
+**Machine Learning Models**  
 Implemented various Machine Learning models (DT, ANN, Clustering) using Python and deployed them on Big Data platforms.
+
+**AI Course Project**  
+Developed advanced AI models as part of a course, applying various machine learning techniques to complex datasets. [View on GitHub](https://github.com/RoiAzrai/AI-Course-Project)
+
+**Regression Analysis in R**  
+Conducted comprehensive regression analysis using R, focusing on statistical methods and data visualization techniques. [View on GitHub](https://github.com/RoiAzrai/Regression-Project-R-Programing)
 
 ## 🔧 Technologies & Tools
 
