@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RoiAzrai/RoiAzrai/blob/main/DallE02.webp" alt="Colorful abstract digital artwork" style="width: 100%; max-width: 1200px;"/>
+  <img src="https://github.com/RoiAzrai/RoiAzrai/blob/main/DallE03.5.webp" alt="Colorful abstract digital artwork" style="width: 100%; max-width: 1500px;"/>
 </p>
 
 # Hi there, I'm Roi Azrai 👋
