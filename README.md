@@ -13,7 +13,7 @@ I am a Python Developer with strong skills in data engineering, including SQL, b
 ### [**Backend Development with Flask Dockerized OpenAI API**](https://github.com/RoiAzrai/INSAIT_Backend_Project)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) Developed a Dockerized Flask server with PostgreSQL, integrating OpenAI API for querying and storing responses.
 
-### [**Data Warehousing & BI Development**](https://github.com/RoiAzrai/BI-Develop--and-Analytics-Project)  
+### [**BI Development & Data Warehousing**](https://github.com/RoiAzrai/BI-Develop--and-Analytics-Project)  
 ![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white) Built and optimized ETL processes and designed Data Warehouses using Star and Snowflake schemas. Visualized data using Tableau and Power BI.
 
 ### [**Machine Learning Models**](https://github.com/RoiAzrai/Machine-Learning-Project)  
