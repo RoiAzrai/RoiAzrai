@@ -10,8 +10,6 @@ I am a Python Developer with strong skills in data engineering, including SQL, b
 
 ## 🚀 Projects
 
-# The Movie Data Base Full Stack Project 🎥
-
 ### [**The Movie Data Base Full Stack Project**](https://github.com/RoiAzrai/The-Movie-Data-Base-Full-Stack-Project)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) 
